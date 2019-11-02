@@ -1,0 +1,11 @@
+Quem inventou a internet?
+Basicamente, foi o Departamento de Defesa dos EUA. A rede de computadores surgiu no final da década de 1960, durante a Guerra Fria
+
+Basicamente, foi o Departamento de Defesa dos EUA.A rede de computadores surgiu no final da década de 1960, durante a Guerra Fria, enquanto os norte-americanos e a União Soviética travavam uma acirrada disputa tecnológica. O projeto, idealizado pela Advanced Research and Projects Agency (Arpa) e financiado pela Nasa e pelo Pentágono, tinha como objetivo criar uma rede que fosse capaz de armazenar dados e resistir auma destruição parcial – caso houvesse, por exemplo, um ataque nuclear. Após anos de pesquisas e testes, em 1969,a rede Arpanet entrou em operação, ligando quatro instituições: Universidade da Califórnia (Los Angeles), Universidade da Califórnia (Santa Bárbara), Instituto de Pesquisa de Stanford e Universidade de Utah.
+
+A internet foi criada em 1969, nos Estados Unidos. Chamada de Arpanet, tinha como função interligar laboratórios de pesquisa. Naquele ano, um professor da Universidade da Califórnia passou para um amigo em Stanford o primeiro e-mail da história. Essa rede pertencia ao Departamento de Defesa norte-americano.
+
+década de 30, quando o informático belga Paul Otlet imaginou e escreveu sobre uma biblioteca radial que poderia se conectar a telespectadores de todas as partes do mundo mediante ondas de rádio e sinais telefônicos, assim como mensagens de todo o tipo poderiam ser comunicadas às pessoas e haveria o compartilhamento de informações a longas distâncias. Paul é mencionado como um visionário que idealizou a internet, porém não fez algo realmente tangível para torná-la real.
+
+No começo, a internet foi uma ideia de modo geral atribuída ao norte-americano Leionar Kleinrock, engenheiro, cientista da computação e professor de Ciências da computação na UCLA, que a menciona no artigo Fluxo de Informação em Grandes Redes de Comunicação em maio de 1961. Um ano mais tarde, em 1962, J.C.R. Licklider, tecnólogo norte-americano, junto à contribuição de outro tecnólogo de seu país, chamado Robert W. Taylor, deu sua visão acerca de uma possível rede galáctica. Esses três nomes que citamos formularam a primeira ideia do que seria a rede, que mais tarde se transformou em ARPANET.  
+
